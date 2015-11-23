@@ -1,0 +1,1 @@
+This project is a repository for all information, documentation and software for the ICARUS UAV.
